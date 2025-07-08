@@ -49,6 +49,5 @@ Sou apaixonado por tecnologia e estou em constante evolução como engenheiro de
 
 <div>
   <a href="https://www.linkedin.com/in/daniel-canal-peterle-315916300/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:daniel.c.peterle@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/daniel_cp_93/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 </div>
